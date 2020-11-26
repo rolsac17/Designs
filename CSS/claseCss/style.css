@@ -1,0 +1,19 @@
+
+/*Por el Elemento: forma para dar estilo a una etiqueta en comun*/
+p {
+  color: blue;
+  font-size: 40px;
+}
+
+/*Clase*/
+.eje {
+  color: chartreuse;
+  font-size: 30px;
+}
+
+/*Id*/
+
+#sh {
+  color: aqua;
+  font-size: 50px;
+}

@@ -1,0 +1,11 @@
+
+html {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*el valor inherit de la propiedad indica que erede de su padre mas
+sercano*/
+h1 {
+  font-size: inherit;
+}

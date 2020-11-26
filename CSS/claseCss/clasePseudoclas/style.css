@@ -1,0 +1,41 @@
+
+.main-nav {
+  margin-top: 10px;
+  list-style: none;
+  padding-left: 0;
+  background-color: darkgrey;
+}
+
+.main-nav__item {
+  display: inline-block;
+}
+/*
+esto es ser especifico en css, se esta indicando
+que el estilo va a afectar a todas las etiquetas a
+dentro de main-nav
+*/
+.main-nav__item a {
+  color: ivory;
+  padding: 5px;
+  border-radius: 2px;
+  text-decoration: none;
+  background-color: red;
+}
+
+/*con border-radius podemos manipular las formas de las cajas*/
+
+/*Estas son las pseudo clases*/
+
+.main-nav__item a:hover {
+  color: blue;
+}
+
+.main-nav__item a:active {
+  color: chartreuse;
+}
+
+/*Esto es un pseudo elemento*/
+
+.main-nav__item a::after {
+  content: " | ";
+}

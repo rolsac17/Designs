@@ -1,0 +1,14 @@
+
+/*Selector universal*/
+* {
+  box-sizing: border-box; /*ya no usa el 100% ,se le dice que sume el padding con el width del elemento*/
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  width: 100%;
+  height: 500px;
+  border: 10px solid black;
+  padding: 20px 35px;
+}
