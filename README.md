@@ -34,3 +34,5 @@ Trabaja del lado del servidor, maneja toda la logica, el no tiene solo tres esta
 
 #### Full Stack
 es la fucion de un front-end y un back-end, no maneja al 100% todas las tecnologias, es quien entiende bien como funciona un producto wed de principio a fin, desde que esta en la fase de idea hasta que se lleva a produccion, pero tiene un area de especialidad.
+
+#### Paginas staticas vs Dinamicas
