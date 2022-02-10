@@ -36,8 +36,6 @@ Trabaja del lado del servidor, maneja toda la logica, el no tiene solo tres esta
 es la fucion de un front-end y un back-end, no maneja al 100% todas las tecnologias, es quien entiende bien como funciona un producto wed de principio a fin, desde que esta en la fase de idea hasta que se lleva a produccion, pero tiene un area de especialidad.
 
 #### Paginas staticas vs Dinamicas
-<<<<<<< HEAD
-=======
 
 - Paginas Estaticas: van a ser todas las paginas pura informacion para consumir, texto o 
 imagenes y que esta informacion no va a cambiar, siempre va a ser la misma. Tambien conocidas
@@ -49,4 +47,3 @@ como paginas informativas o landing pages.
 
 - Html: Lenguaje de marcado de texto.
 
->>>>>>> d5f01c73c6f6f22c01c024793016903ca0da3826
